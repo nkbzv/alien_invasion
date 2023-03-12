@@ -1,0 +1,3 @@
+spaceship icon: 	spaceship icon, top view, with space gun in the middle,  realistic minimalistic, unreal engine 4k
+
+alien icon: 	alien icon for 2D-game
